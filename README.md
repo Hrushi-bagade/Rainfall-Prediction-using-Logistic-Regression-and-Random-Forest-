@@ -1,4 +1,4 @@
-# Rainfall-Prediction-using-LRu-and-RF-
+# Rainfall-Prediction-using-Logistic regression-and-Random Forest-
 In our project we  implemented a predictive model on the Rain Dataset to predict whether it will rain or not tomorrow in a certain region.  The Dataset contains about 10 years of daily weather observations of different locations in Australia. In our project we have used two Machine Learning Algorithm methods which are Random Forest and Logistic regression.  In this manner we have been able to build a predictive model for Rainfall Prediction in our Project.
 
 
